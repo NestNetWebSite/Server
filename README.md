@@ -21,15 +21,4 @@
 ## 서비스 구조
 > ![image](https://github.com/user-attachments/assets/e463aa46-9007-4bd7-87cd-e7e96f7465cf)
 
-## 서버 관리자 
-<table style="width: 60%; border-collapse: collapse; margin: 20px auto; text-align: center;">
-        <tr>
-            <td style="border: 2px solid #000000; padding: 16px; font-size: 18px;">정</td>
-            <td style="border: 2px solid #000000; padding: 16px; font-size: 18px;">부</td>
-        </tr>
-        <tr>
-            <td style="border: 2px solid #000000; padding: 16px; font-size: 18px;">김성호</td>
-            <td style="border: 2px solid #000000; padding: 16px; font-size: 18px;">조준화</td>
-        </tr>
-</table>
 
